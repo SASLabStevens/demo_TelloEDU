@@ -17,6 +17,11 @@
 <img src="media/TELLO_vicon.jpg" alt="Your image title" width="480"/>
 </p>
 
+- If not calibrated already, a calibration file can be loaded to use in VICON Tracker. (update of OCT. 7th.)
+<p align="center">
+<img src="media/IMG_3420.jpg" alt="Your image title" width="480"/>
+</p>
+
 3. open a terminal and run 
 
  ```
